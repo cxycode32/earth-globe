@@ -1,0 +1,18 @@
+{
+    "name": "earth-globe",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "dat.gui": "^0.7.9",
+        "lil-gui": "^0.21.0",
+        "three": "^0.154.0"
+    },
+    "devDependencies": {
+        "vite": "^7.1.12"
+    }
+}
